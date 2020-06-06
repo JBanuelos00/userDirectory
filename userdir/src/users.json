@@ -1,0 +1,44 @@
+[
+    {
+        "employeId": 12301,
+        "name": "Joseph Shepard",
+        "position": "Security",
+        "role": "Manager"
+    },
+    {
+        "employeId": 12302,
+        "name": "Urdnot Wrex",
+        "position": "Security",
+        "role": "Employee"
+    },
+    {
+        "employeId": 12303,
+        "name": "Mordin Solus",
+        "position": "R&D",
+        "role": "Manager"
+    },
+    {
+        "employeId": 12304,
+        "name": "Tali'Zorah vas Normandy",
+        "position": "Engineer",
+        "role": "Employee"
+    },
+    {
+        "employeId": 12305,
+        "name": "Liara T'Soni",
+        "position": "Human Resources",
+        "role": "Manager"
+    },
+    {
+        "employeId": 12306,
+        "name": "Kaidan Alenko",
+        "position": "Engineer",
+        "role": "Manager"
+    },
+    {
+        "employeId": 12307,
+        "name": "Garrus Vakarian",
+        "position": "Security",
+        "role": "Employee"
+    }
+]
