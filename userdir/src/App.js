@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import EmployeeCard from "./components/EmployeeCard";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
-import friends from "./users.json";
+import users from "./users.json";
 
 class App extends Component {
     state = {
